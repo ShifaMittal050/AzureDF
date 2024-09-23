@@ -1,0 +1,9 @@
+{
+	"name": "ADFPracDataFactory",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8f4eeb15-251f-44f9-8969-2c21eb4401b1",
+		"tenantId": "c2928807-d578-48b9-b9f0-d5bd6c3ead1f"
+	}
+}
